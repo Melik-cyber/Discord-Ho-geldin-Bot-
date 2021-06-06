@@ -1,4 +1,4 @@
-# discord-welcome-bot
+# Discord Hoşgeldin Bot
 
 A great intro sounds for Discord servers!
 
