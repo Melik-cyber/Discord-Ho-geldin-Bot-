@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1"],
+        "ACTIVITY_TEXT": "Leen Colas Register System",
+        "GUILD_ID": "827249368314675242",
+        "VOICE_CHANNEL": "829995155489947669",
+        "MIN_STAFF_ROLE": "829992872568553492"
+    },
+    "FILES": {
+        "WELCOME": "ses_dosyaları/hg.mp3",
+        "STAFF": "ses_dosyaları/senisevdim.mp3"
+    },
+    "TOKEN": "ODAyMTk5NDE2NzM4OTM4OTAx.YArwbQ.uXR3IAaMzdmsW5ui51OhcNqN-H4"
+}
