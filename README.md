@@ -13,9 +13,8 @@ A great intro sounds for Discord servers!
 
 # Information
 
-**(!)** If there is something that can be added to this project or if you have found anything missing in this project, you can let us know and help us improve the project! [Let us know!](https://github.com/polemikal/discord-slash-commands-bot/issues)
+**(!)** If there is something that can be added to this project or if you have found anything missing in this project, you can let us know and help us improve the project! [Let us know!](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJZNHKKfVdsVvrXCQcnKLcqXqPbmXmxxWhbVRDmgvsLrzLGthPgnvNtlDXMCbTrghRtq)
 
-**(!)** This project is shared on behalf of [Serendia Squad](https://discord.com/invite/serendia). If you need any help about this project, you can join this platform and ask questions in your mind.
 
 
 
